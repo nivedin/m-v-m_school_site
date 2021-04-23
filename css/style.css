@@ -6117,11 +6117,11 @@ Main Slider Banner
 
 }
 
-.admissionContainer ol li:hover {
+/* .admissionContainer ol li:hover {
 	transform: translateX(10px);
 	background: rgb(245, 245, 245);
 
-}
+} */
 
 .admissionContainer .imgContainer {
 	background: url('../images/school_images/home-banner2.jpg');
