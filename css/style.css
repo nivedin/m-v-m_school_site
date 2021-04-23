@@ -2503,6 +2503,12 @@ Main Slider Banner
 	margin-bottom: 0px;
 }
 
+@media (max-width: 700px) {
+	.bottom-text p {
+		line-height: 20px;
+	}
+}
+
 /*===Header Top Two===*/
 
 .header-style-two {
